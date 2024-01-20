@@ -4,7 +4,7 @@
 - 🌱 Hot take: People use Python too much; personally, I prefer semi-colons 😁
 - ⚡ I mainly code in Java. I know, this might be blasphemy with all the hype around Kotlin/Rust/Go. But I secretly love C++ as well.
 
-![Alt text](image.png)
+![Alt text](https://media.giphy.com/media/vX9WcCiWwUF7G/giphy.gif)
 
 - 📫 How to reach me:
   - [Linkdin](https://www.linkedin.com/in/iamcheslin)
