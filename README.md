@@ -1,19 +1,11 @@
-### Hi there 👋
+### Hello there 👋
 
+- 🔭 My name is Cheslin van Wyk, aka **iamcheslin**.
+- 🌱 Hot take: People use Python too much; personally, I prefer semi-colons 😁
+- ⚡ I mainly code in Java. I know, this might be blasphemy with all the hype around Kotlin/Rust/Go. But I secretly love C++ as well.
 
-**ch3slin/ch3slin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Alt text](image.png)
 
-- 🔭 I’m currently working on 
-  - [Portfolio Website](https://github.com/ch3slin/java-full-stack-portfolio)
-- 🌱 I’m currently learning 
-  - OSSU
 - 📫 How to reach me:
   - [Linkdin](https://www.linkedin.com/in/iamcheslin)
   - [Email](mailto:iamcheslin@gmail.com)
-- ⚡ Fun fact:
-  - Messi is the GOAT
-
-<!-- - 👯 I’m looking to collaborate on ...
- - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
---!> 
